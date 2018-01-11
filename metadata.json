@@ -1,0 +1,15 @@
+{
+  "name": "basgeerinck-nginx",
+  "version": "0.1.0",
+  "author": "basgeerinck",
+  "summary": "nginx module for Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/basgeerinck/bg_puppet-nginx.git",
+  "project_page": "https://github.com/basgeerinck/bg_puppet-nginx",
+  "issues_url": "https://github.com/basgeerinck/bg_puppet-nginx/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
